@@ -8,10 +8,4 @@
   </div>
 </template>
 
-<<<<<<< Updated upstream
-<style lang="scss" scoped>
-
-</style>
-=======
 <style lang="scss" scoped />
->>>>>>> Stashed changes
