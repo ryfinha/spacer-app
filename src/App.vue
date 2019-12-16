@@ -60,9 +60,6 @@ export default {
           this.results = response.data.collection.items;
           this.loading = false;
           this.step = 1;
-        })
-        .catch((error) => {
-          console.log(error);
         });
     }, 500),
   },
